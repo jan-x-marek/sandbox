@@ -1,0 +1,24 @@
+# Maven
+target/
+
+# Gradle
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ Idea
+*.iml
+.idea/
+
+# shell
+nohup.out
+
+# Java
+*.class
+*.jar
+hs_err_pid*
+
+
